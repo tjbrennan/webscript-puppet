@@ -9,8 +9,8 @@ Slack configuration
 
 Requires two integrations:
 
-    - a slash command to send input to the script
-    - an incoming webhook for the script to post as a "bot"
+- a slash command to send input to the script
+- an incoming webhook for the script to post as a "bot"
 
 Incoming webhook and command configuration is at the top of the script. If the slash command doesn't match the command in the script, it will return `404`.
 
