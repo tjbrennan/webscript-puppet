@@ -8,6 +8,7 @@ Slack configuration
 -------------------
 
 Requires two integrations:
+
     - a slash command to send input to the script
     - an incoming webhook for the script to post as a "bot"
 
